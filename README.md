@@ -1,16 +1,8 @@
 
-<h3 align="left">Hi there, I'm Artem Lazarev!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
+<h3 align="left">Hi there, I'm Artem!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&height=31&lines=Kotlin+%26+Java+Android+developer)](https://git.io/typing-svg)
-
-<h3>👤 About me:</h3>
-<div>
-<ul>
-  <li>Hackathons enjoyer</li>
-  <li>Peter the Great St. Petersburg Polytechnic University student</li>
-</ul>
-</div>
 
 <div>
   <h3>🔨 Programming languages:</h3>
