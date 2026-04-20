@@ -44,6 +44,5 @@ height="40"/>&nbsp;
   <h3>✏️ Contact me:</h3>
   <ul>
     <li>Telegram: <a href="https://t.me/python_hackershaa">@python_hackershaa</a></li>
-    <li>Email: <a href="mailto:art.holodilov@gmail.com">art.holodilov@gmail.com</a></li>
   </ul>
 </div>
